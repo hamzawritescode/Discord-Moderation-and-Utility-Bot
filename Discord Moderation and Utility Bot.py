@@ -3,7 +3,7 @@
 # GitHub Profile: https://github.com/hamzawritescode
 # Codédex Profile: https://www.codedex.io/@HamzaWritesCode
 # Project Repository: https://github.com/hamzawritescode/Discord_Bot
-# Codédex Project Link: https://www.codedex.io/@HamzaWritesCode/build/discord-moderation-and-utility-bot
+# Codédex Project Link: https://www.codedex.io/community/project-showcase/MJbHinqVP98yuGrw4ft6
 #
 #
 # Hamza is a Python programmer with a passion for creating clean, efficient, 
